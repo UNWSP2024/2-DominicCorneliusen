@@ -1,4 +1,4 @@
-#Title: Personal Information
+#Title: Average Age
 #Author: Dominic Corneliusen
 #Date last modified: 1/29/26
 
@@ -12,3 +12,4 @@ Average_Age = (Carter + Jaycie + Malechi + Kendyl + Jayden) / 5
 
 #Print
 print(Average_Age)
+
